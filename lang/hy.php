@@ -14,7 +14,7 @@ $lang['view']           = 'Դիտել';
 
 $lang['show_current']       = 'Ընթացիկ տոմսեր';
 $lang['show_all']           = 'Բոլոր տոմսերը';
-$lang['create_new']         = 'Ստեղծելնոր տոմս';
+$lang['create_new']         = 'Ստեղծել նոր տոմս';
 $lang['closed_ticket']      = 'Փակ տոմսեր';
 $lang['not_handle_ticket']  = 'Բաց տոմսեր';
 $lang['partner_portal']     = 'Գործընկերների Պորտալ';
